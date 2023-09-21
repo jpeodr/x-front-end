@@ -197,7 +197,7 @@ onMounted(async() => {
     <div
       class="rounded-md border border-gray-700 text-white bg-gray-800 p-6 mx-auto w-full max-w-[600px]"
     >
-      <h1 class="text-2xl mb-4">𝕏 (Twitter) Descentralizado by jpeodr</h1>
+      <h1 class="text-2xl mb-4">𝕏 (Twitter) Descentralizado</h1>
       <p class="text-base mb-4">
         Esse é um twitter descentralizado, conecte sua sua carteira blockchain e
         use seus Ethereums para enviar uma mensagem. Cada post enviado você terá
