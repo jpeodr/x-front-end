@@ -1,29 +1,7 @@
-# x-front-end
+x-front-end-sage.vercel.app
 
-This template should help get you started developing with Vue 3 in Vite.
+Esse é um twitter descentralizado.
+Conecte sua sua carteira blockchain e use seus Ethereums para enviar uma mensagem.
+Cada post enviado você terá chance de ganhar um valor de Ethereum de volta.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+- Instalar extensão Metamask Wallet.
